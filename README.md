@@ -44,3 +44,24 @@ A nivel funcional, el programa valida los datos introducidos en los formularios,
 
    ```bash
    java -jar swing_c_p02_GomezGarciaFranciscoJose.jar
+
+## Construido con
+
+- **Lenguaje:** Java 17
+- **Interfaz gráfica:** Swing
+- **IDE:** Eclipse
+- **Control de versiones:** Git y GitHub
+
+## Versionado
+
+Este proyecto utiliza Git para el control de versiones.  
+La rama principal (`main`) contiene la versión estable correspondiente a la entrega de la práctica **SwingP02compendio**.
+
+## Autores
+
+- Francisco José Gómez García  
+- 2º DAM – IES Al-Ándalus
+
+## Licencia
+
+Proyecto desarrollado con fines educativos dentro del módulo **Desarrollo de Interfaces** del ciclo DAM.  
