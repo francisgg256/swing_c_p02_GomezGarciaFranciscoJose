@@ -47,7 +47,7 @@ A nivel funcional, el programa valida los datos introducidos en los formularios,
 
 ## Construido con
 
-- **Lenguaje:** Java 17
+- **Lenguaje:** Java 24
 - **Interfaz gráfica:** Swing
 - **IDE:** Eclipse
 - **Control de versiones:** Git y GitHub
